@@ -1,0 +1,28 @@
+{
+  "name": "logo-grid-showcase",
+  "homepage": "https://github.com/mradovac",
+  "description": "This is a project made to present logo designs in a responsive way to fit in a grid.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "logo",
+    "grid",
+    "showcase",
+    "design",
+    "presentation"
+  ],
+  "authors": [
+    "Mario Radovac"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
