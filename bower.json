@@ -22,7 +22,5 @@
     "test",
     "tests"
   ],
-  "dependencies": {
-    "jquery": "^2.2.2"
-  }
+  "dependencies": {}
 }
